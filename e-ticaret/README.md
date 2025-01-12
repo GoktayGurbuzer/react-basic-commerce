@@ -1,8 +1,12 @@
-# React + Vite
+# React Ürün Listeleme
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aslında e-ticaret'ten ziyade ürün listeleme test projesi diyebiliriz. Bu projede şu başlıkların üstünden geçtim;
 
-Currently, two official plugins are available:
+- Redux Tools, Reducer, Slices
+- Axios (GET)
+- React Router, Navigate, Dispatch, Selector
+- Material UI Icons, Badge, Backdrop, Container
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+FakeStoreAPI sayesinde, axios ile ürünleri çekiyorum, listeliyorum, sepete ekliyorum ve sepetimin toplamını yazdırıyorum. Başlangıç için gayet yeterli. React rota yapısını çok sevemedim. Render mevzusu biraz garip. Fakat Next.js öyle mi, aslan gibi çalışıyor maşallah.
+
+Sevgiler.
